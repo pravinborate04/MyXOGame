@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128136284642",
+    "firebase_url": "https://myxogame.firebaseio.com",
+    "project_id": "myxogame",
+    "storage_bucket": "myxogame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128136284642:android:c477baa17c4e93db",
+        "android_client_info": {
+          "package_name": "com.pravin.myxogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128136284642-11antm484rdnfgde4j7urh4es7sn8ub4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkD9g2ZBNGqEaxdieQ9HYUjiEWG4c0nw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
